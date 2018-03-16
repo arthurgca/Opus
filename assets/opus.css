@@ -418,3 +418,13 @@ rect {
   text-align: center;
   padding: 10px;
 }
+
+  div.tooltip {
+  position: absolute;
+  background-color: white;
+  border: 1px solid black;
+  color: black;
+  font-family:"avenir next", Arial, sans-serif;
+  padding: 4px 8px;
+  display: none;
+}
